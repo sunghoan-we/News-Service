@@ -1,6 +1,6 @@
-package springboot.demo.newsService.service;
+package springboot.demo.newsservice.service;
 
-import springboot.demo.newsService.dto.NewsDto;
+import springboot.demo.newsservice.dto.NewsDto;
 
 import java.util.List;
 

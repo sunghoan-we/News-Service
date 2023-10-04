@@ -1,4 +1,4 @@
-package springboot.demo.newsService.entity;
+package springboot.demo.newsservice.entity;
 
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;

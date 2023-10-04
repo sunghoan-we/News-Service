@@ -1,12 +1,11 @@
-package springboot.demo.newsService.controller;
+package springboot.demo.newsservice.controller;
 
-import ch.qos.logback.core.net.SyslogOutputStream;
 import lombok.AllArgsConstructor;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
-import springboot.demo.newsService.dto.NewsDto;
-import springboot.demo.newsService.service.NewsService;
+import springboot.demo.newsservice.dto.NewsDto;
+import springboot.demo.newsservice.service.NewsService;
 
 import java.util.List;
 

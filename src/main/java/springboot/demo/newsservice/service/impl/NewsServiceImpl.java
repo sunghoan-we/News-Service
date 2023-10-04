@@ -1,11 +1,11 @@
-package springboot.demo.newsService.service.impl;
+package springboot.demo.newsservice.service.impl;
 
 import lombok.AllArgsConstructor;
 import org.springframework.stereotype.Service;
-import springboot.demo.newsService.dto.NewsDto;
-import springboot.demo.newsService.entity.News;
-import springboot.demo.newsService.repository.NewsRepository;
-import springboot.demo.newsService.service.NewsService;
+import springboot.demo.newsservice.dto.NewsDto;
+import springboot.demo.newsservice.entity.News;
+import springboot.demo.newsservice.repository.NewsRepository;
+import springboot.demo.newsservice.service.NewsService;
 
 import java.util.List;
 import java.util.Optional;

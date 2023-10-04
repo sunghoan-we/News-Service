@@ -1,7 +1,7 @@
-package springboot.demo.newsService.repository;
+package springboot.demo.newsservice.repository;
 
 import org.springframework.data.jpa.repository.JpaRepository;
-import springboot.demo.newsService.entity.News;
+import springboot.demo.newsservice.entity.News;
 
 import java.util.List;
 

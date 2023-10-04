@@ -1,10 +1,9 @@
-package springboot.demo.newsService.dto;
+package springboot.demo.newsservice.dto;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;
 import lombok.NoArgsConstructor;
 import lombok.Setter;
-import org.springframework.beans.BeanMetadataElement;
 
 import java.util.Date;
 

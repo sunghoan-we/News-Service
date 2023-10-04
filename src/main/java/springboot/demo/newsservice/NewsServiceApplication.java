@@ -1,4 +1,4 @@
-package springboot.demo.newsService;
+package springboot.demo.newsservice;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
